@@ -1,7 +1,13 @@
 START
+
 IF IT >=80 OUTPUT 'A' If not 
+
 IF IT >=70 OUTPUT 'B' If not
+
 IF IT >=60 OUTPUT 'C' If not
+
 IF IT >0 OUTPUT 'D' If not
+
 IF IT  NONE OF IT IS CORRECT OUTPUT 'FAIL'
+
 END 
